@@ -3,7 +3,7 @@ import React from 'react';
 function Header() {
   return (
     <header>
-      <h1>HI</h1>
+      <h1>Shape AI</h1>
     </header>
   );
 }

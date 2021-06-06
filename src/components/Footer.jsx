@@ -5,7 +5,7 @@ var currYear = new Date().getFullYear();
 function Footer() {
   return (
     <footer>
-      <p>Copyright @ {currYear}</p>
+      <p>Copyright @ {currYear}. All Rights Reserved.</p>
     </footer>
   );
 }
